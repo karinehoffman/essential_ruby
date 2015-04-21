@@ -12,3 +12,5 @@ puts "The second student is #{students[1]}."
 students.push("Roz")
 
 puts "The last student is #{students.last}."
+puts "The last student is #{students[4]}."
+puts "The last student is #{students.length-1}."
